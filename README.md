@@ -10,7 +10,7 @@ for the [Sublime Text][] text editor.
 
 this repo | pypi
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/packagecontrol/oauthlib.svg) | [![pypi](https://pypip.in/version/oauthlib/badge.svg)][pypi]
+![latest tag](https://img.shields.io/github/tag/packagecontrol/oauthlib.svg) | [![pypi](https://img.shields.io/pypi/v/oauthlib.svg)][pypi]
 
 
 ## How to use *requests* as a dependency
