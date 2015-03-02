@@ -13,10 +13,10 @@ this repo | pypi
 ![latest tag](https://img.shields.io/github/tag/packagecontrol/oauthlib.svg) | [![pypi](https://img.shields.io/pypi/v/oauthlib.svg)][pypi]
 
 
-## How to use *requests* as a dependency
+## How to use *oauthlib* as a dependency
 
 In order to tell Package Control
-that you are using the *requests* module
+that you are using the *oauthlib* module
 in your ST package,
 create a `dependencies.json` file
 in your package root
